@@ -1,0 +1,36 @@
+-------------------------------------PARAMETERS: -------------------------------------
+
+SUBSTRATE - BOTTOM LAYER:  GaAs
+z = 20.000000[nm] - substrate bottom thickness
+
+FIRST_LAYER:  Ga_m In_1-m P_n As_1-n
+m_Ga =0.3 - Gallium amount
+n_P = 0.6	 - Phosphorus amount
+z_GaInPAs = 10.000000 [nm] - layer thickness
+
+SECOND LAYER:  Al_m Ga_1-m As_n Sb_1-n
+m_Al = 0.8 - Aluminium amount
+n_As = 0.5	 - Arsenic amount
+z_GaInPaAs = 10.000000 [nm] - layer thickness
+
+THIRD LAYER:  Ga_m In_1-m P_n As_1-n
+m_Ga = 0.3 - Gallium amount
+n_P = 0.6	 - Phosphorus amount
+z_Ga = 10.000000 [nm] - layer thickness
+
+SUBSTRATE - TOP LAYER:  GaAs
+z = 20.000000[nm] - substrate bottom thickness
+
+-------------------------------------ENERGY DATA: -------------------------------------	
+
+z [nm]		Ec [eV]		Ev_hh [eV]	Ev_lh [eV]	Ev_sh [eV]
+0.000000	0.622482	-0.800000	-0.800000	-1.141000
+20.000000	0.622482	-0.800000	-0.800000	-1.141000
+20.000000	0.395269	-0.869704	-0.869704	-1.059172
+30.000000	0.395269	-0.869704	-0.869704	-1.059172
+30.000000	1.601512	-0.538146	-0.538146	-0.984695
+35.000000	1.601512	-0.538146	-0.538146	-0.984695
+35.000000	0.395269	-0.869704	-0.869704	-1.059172
+45.000000	0.395269	-0.869704	-0.869704	-1.059172
+45.000000	0.622482	-0.800000	-0.800000	-1.141000
+65.000000	0.622482	-0.800000	-0.800000	-1.141000

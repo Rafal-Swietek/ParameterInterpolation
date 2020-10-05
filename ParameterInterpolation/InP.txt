@@ -1,0 +1,13 @@
+1.4236 //Eg(T=0)[eV]
+0.000363 //alfa[eV/K]
+162 //beta[K]
+5.8697 //a_lc[A]-lattice_constant_001
+2.79e-5 //del_a_lc[A/K]-temperature_deformation
+0.108 //del_SO[eV]-spin_orbit
+0.0795 //m_e*=0.067*m_0-elektron_effective_mass
+-0.94//VBO[eV]-valence_band_offset_with_no_deformation
+-6.0 //a_c[eV]-hydrostatic_pressure_conduction_band_deformation
+-0.6 //a_v[eV]-hydrostatic_pressure_valence_band_deformation
+-2.0 //b[eV]-deformation_potential
+1011 //c_11[GPa]-stifness_tensor_element
+561 //c_12[GPa]-stifness_tensor_elemen

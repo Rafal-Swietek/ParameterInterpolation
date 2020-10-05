@@ -1,0 +1,36 @@
+#################### GaInPAs ######################
+#GaInP - WX
+	bowing_Eg = 0.65
+	bowing_m_e = 0.051
+
+#GaInAs - YZ
+	bowing_Eg = 0.477
+	bowing_delSO= 0.155
+	bowing_m_e= 0.0091
+	bowing_VBO= -0.38
+	bowing_a_c = 2.61
+
+#GaAsP - WY
+	bowing_Eg = 0.19
+
+#InAsP - XZ
+	bowing_Eg = 0.1
+	bowing_delSO = 0.16
+
+#################### AlGaAsSb ######################
+#AlGaAs - WX
+	bowing_Eg = -0.127 + 1.310*x
+
+#AlGaSb - YZ
+	bowing_Eg = -0.044 + 1.22*x
+	bowing_delSO = 0.3
+
+#AlAsSb - WY
+	bowing_Eg = 0.8
+	bowing_delSO = 0.15
+	bowing_VBO = -1.71
+
+#GaAsSb - XZ
+	bowing_Eg = 1.43
+	bowing_delSO = 0.6
+	bowing_VBO = -1.06

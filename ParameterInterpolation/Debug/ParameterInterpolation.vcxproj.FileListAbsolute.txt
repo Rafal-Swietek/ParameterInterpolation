@@ -1,0 +1,3 @@
+C:\Users\77swi\OneDrive\STUDY_MORE\Master - IKW\Lasery na bazie nanostruktur\ParameterInterpolation\ParameterInterpolation\Debug\ParameterInterpolation.MyForm.resources
+C:\Users\77swi\OneDrive\STUDY_MORE\Master - IKW\Lasery na bazie nanostruktur\ParameterInterpolation\ParameterInterpolation\Debug\ParameterInterpolation.vcxproj.GenerateResource.cache
+C:\Users\77swi\OneDrive\STUDY_MORE\Master - IKW\Lasery na bazie nanostruktur\ParameterInterpolation\ParameterInterpolation\Debug\ParameterInterpolation.vcxprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+﻿  CreateMaterial.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\tgmath.h(27): warning UCRT4000: The Universal CRT implementation of tgmath.h does not conform to the C99 standard. Functionality equivalent to the type-generic functions provided by tgmath.h is available in <ctgmath> when compiling as C++. If compiling in C++17 mode or higher (/std:c++17), this header will automatically include <ctgmath> instead. You can define _CRT_SILENCE_NONCONFORMING_TGMATH_H to acknowledge that you have received this warning.
+  CreateStructure.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\tgmath.h(27): warning UCRT4000: The Universal CRT implementation of tgmath.h does not conform to the C99 standard. Functionality equivalent to the type-generic functions provided by tgmath.h is available in <ctgmath> when compiling as C++. If compiling in C++17 mode or higher (/std:c++17), this header will automatically include <ctgmath> instead. You can define _CRT_SILENCE_NONCONFORMING_TGMATH_H to acknowledge that you have received this warning.
+  MyForm.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\tgmath.h(27): warning UCRT4000: The Universal CRT implementation of tgmath.h does not conform to the C99 standard. Functionality equivalent to the type-generic functions provided by tgmath.h is available in <ctgmath> when compiling as C++. If compiling in C++17 mode or higher (/std:c++17), this header will automatically include <ctgmath> instead. You can define _CRT_SILENCE_NONCONFORMING_TGMATH_H to acknowledge that you have received this warning.
+C:\Users\77swi\OneDrive\STUDY_MORE\Master - IKW\Lasery na bazie nanostruktur\ParameterInterpolation\ParameterInterpolation\MyForm.h(28,1): warning C4129: ' ': unrecognized character escape sequence
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  CreateMaterial.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ParameterInterpolation.vcxproj -> C:\Users\77swi\OneDrive\STUDY_MORE\Master - IKW\Lasery na bazie nanostruktur\ParameterInterpolation\Debug\ParameterInterpolation.exe
